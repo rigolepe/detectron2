@@ -30,7 +30,7 @@ wheels/
 model_ts*.txt
 
 # ipython/jupyter notebooks
-*.ipynb
+# *.ipynb
 **/.ipynb_checkpoints/
 
 # Editor temporaries
@@ -51,3 +51,5 @@ _darcs
 /projects/*/datasets
 /models
 /snippet
+/jupyter/Geel
+/jupyter/images
